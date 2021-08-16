@@ -1,0 +1,73 @@
+﻿  VIBuffer.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  TriCol.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  ToolTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Texture.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  TerrainTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  TerrainCol.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\terraincol.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\terraincol.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\terraincol.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  StaticMesh.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  ScrollTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  ResourcesMgr.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Resources.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  RcTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  RcCol.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  NaviMesh.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\navimesh.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Mesh.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Line.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  LightTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  HierarchyLoader.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  DynamicMesh.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  CubeTex.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Cell.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\navimesh.cpp(105): warning C4715: 'Engine::CNaviMesh::Move_OnNaviMesh': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\resources\code\texture.cpp(140): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  AniCtrl.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'System.lib' 파일을 열 수 없습니다.

@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. Management">
+      <UniqueIdentifier>{ea6d15d3-6220-4596-9184-fe44984c26a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Scene">
+      <UniqueIdentifier>{856f08ae-5d40-4824-b2dd-e6da6197eca3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Layer">
+      <UniqueIdentifier>{bec58d3b-8d68-4c73-a683-b18f12370769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. GameObject">
+      <UniqueIdentifier>{740c4e47-922d-4572-bd2f-3060ee018dbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component">
+      <UniqueIdentifier>{ebb349cb-a73e-4355-ba2e-a9a42cbaeb77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Export">
+      <UniqueIdentifier>{05021b2c-ddfd-48a1-b863-9870f81e8070}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\00. Transform">
+      <UniqueIdentifier>{aa3ca289-f1c1-4bdb-97a4-0d83f211442e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Renderer">
+      <UniqueIdentifier>{c2548655-d997-4fc4-9886-22560636a67b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. GameObject\00. Camera">
+      <UniqueIdentifier>{0604c1a5-078a-42e5-a6d7-264d2d8fb010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06. Pipeline">
+      <UniqueIdentifier>{803b6703-cb5d-4ac2-b78b-2d05cdb3241a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\01. Calculator">
+      <UniqueIdentifier>{6019e65d-a88d-4b55-b7ec-8bc825a6a355}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07. Convert">
+      <UniqueIdentifier>{a91b7222-3989-449b-a775-c446f635985c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Light">
+      <UniqueIdentifier>{069969ef-a2f6-48aa-9852-4715e01d536c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08. Light\Manager">
+      <UniqueIdentifier>{6c49197a-0fdf-431b-a170-8104d70cfd9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\02. Colllider">
+      <UniqueIdentifier>{66800cbe-fdaa-4b6d-b585-a366332fa3f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09 . Shader">
+      <UniqueIdentifier>{32ac9982-16c7-41f5-89b5-114715c3c50d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="10.ProtoTypeMagr">
+      <UniqueIdentifier>{28452052-0b57-40c0-b2bd-6adccf401afa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. RenderTarget">
+      <UniqueIdentifier>{2c17c6d5-b6b7-44c2-aa05-88828389280f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="11. RenderTarget\Manager">
+      <UniqueIdentifier>{2c90f266-6267-4c07-a651-789e28e0c21f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\03. Optimization">
+      <UniqueIdentifier>{44792042-ba4a-4f35-b0b4-5653b67689ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\03. Optimization\00. Frustum">
+      <UniqueIdentifier>{bd4a72c6-6b0a-4aad-b0ad-f9a2c5282663}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Component\03. Optimization\01. QuadTree">
+      <UniqueIdentifier>{0fdcf4d1-c10b-49ad-824e-728c5a8fabc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09 . Shader\Generalhpp">
+      <UniqueIdentifier>{024d9a2f-8e0d-4202-9a15-609bb12350e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="09 . Shader\Defferdhpp">
+      <UniqueIdentifier>{d39a81ca-b27a-4cd6-9cef-dddf349e743e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Header\Export_Utility.h">
+      <Filter>99. Export</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Component.h">
+      <Filter>04. Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\GameObject.h">
+      <Filter>03. GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Layer.h">
+      <Filter>02. Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Scene.h">
+      <Filter>01. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Management.h">
+      <Filter>00. Management</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Transform.h">
+      <Filter>04. Component\00. Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Renderer.h">
+      <Filter>05. Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Camera.h">
+      <Filter>03. GameObject\00. Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Pipeline.h">
+      <Filter>06. Pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Calculator.h">
+      <Filter>04. Component\01. Calculator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Convert.h">
+      <Filter>07. Convert</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\LightMgr.h">
+      <Filter>08. Light\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Light.h">
+      <Filter>08. Light</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Collider.h">
+      <Filter>04. Component\02. Colllider</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader.h">
+      <Filter>09 . Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Base.hpp">
+      <Filter>09 . Shader\Generalhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Mesh.hpp">
+      <Filter>09 . Shader\Generalhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Sample.hpp">
+      <Filter>09 . Shader\Generalhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Terrain.hpp">
+      <Filter>09 . Shader\Generalhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\PrototypeMgr.h">
+      <Filter>10.ProtoTypeMagr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\RenderTarget.h">
+      <Filter>11. RenderTarget</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\RenderTargetMgr.h">
+      <Filter>11. RenderTarget\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Optimization.h">
+      <Filter>04. Component\03. Optimization</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\QuadTree.h">
+      <Filter>04. Component\03. Optimization\01. QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Frustum.h">
+      <Filter>04. Component\03. Optimization\00. Frustum</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Light.hpp">
+      <Filter>09 . Shader\Defferdhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Blend.hpp">
+      <Filter>09 . Shader\Defferdhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Effect.hpp">
+      <Filter>09 . Shader\Defferdhpp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Shader_Particle.hpp">
+      <Filter>09 . Shader\Generalhpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Header\Export_Utility.inl">
+      <Filter>99. Export</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Code\Component.cpp">
+      <Filter>04. Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\GameObject.cpp">
+      <Filter>03. GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Layer.cpp">
+      <Filter>02. Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Scene.cpp">
+      <Filter>01. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Management.cpp">
+      <Filter>00. Management</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Transform.cpp">
+      <Filter>04. Component\00. Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Renderer.cpp">
+      <Filter>05. Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Camera.cpp">
+      <Filter>03. GameObject\00. Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Pipeline.cpp">
+      <Filter>06. Pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Calculator.cpp">
+      <Filter>04. Component\01. Calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Convert.cpp">
+      <Filter>07. Convert</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LightMgr.cpp">
+      <Filter>08. Light\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Light.cpp">
+      <Filter>08. Light</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Collider.cpp">
+      <Filter>04. Component\02. Colllider</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Shader.cpp">
+      <Filter>09 . Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\PrototypeMgr.cpp">
+      <Filter>10.ProtoTypeMagr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\RenderTarget.cpp">
+      <Filter>11. RenderTarget</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\RenderTargetMgr.cpp">
+      <Filter>11. RenderTarget\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Optimization.cpp">
+      <Filter>04. Component\03. Optimization</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\QuadTree.cpp">
+      <Filter>04. Component\03. Optimization\01. QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Frustum.cpp">
+      <Filter>04. Component\03. Optimization\00. Frustum</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

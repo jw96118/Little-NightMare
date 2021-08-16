@@ -1,0 +1,22 @@
+
+0~59  기본
+99~109 Nome
+160~183 Climb
+247~298 Drag
+330~338 Faling~ FastWalk
+339~351 Grab
+365~382 HugNome+Hugger
+387~400 Jog(매달리다)
+401~409 Jump
+411~426 Landing
+427~435 LeechAttaced = 리치라는 몬스터한테 당할때
+436~438 Lever
+439~445 Lighter
+511~516 Push
+
+517~527 Run
+528~533 Sleeping
+534~536 SildeExit
+537~542 SlowWalk
+619~622 VerySlow
+623~629 WadeShoes

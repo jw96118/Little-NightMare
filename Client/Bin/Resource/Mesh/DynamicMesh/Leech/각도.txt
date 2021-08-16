@@ -1,0 +1,26 @@
+90도
+CeilingIdle - 매달려있기.
+CeilingTranToCrawl- 매달려있기에서 보폭모드로 변신.
+CeilingTranToCrawlIn - 매달려있다가 보폭모드 가기전.
+CeilingTranToCrawlOut - 매달려있다가 보폭모드 가기전 다음인 떨어짐.
+CrawlB30Left - 각도 왼쪽 30도로 보폭 하기
+CrawlAlertBasic- 보폭 경고 Baisc
+CrawlB30LeftSlow -각도 왼쪽으로 30도로 천천히 보폭
+CrawlB30Right - 각도 오른쪽으로 30도 보폭
+CrawlB30RightSlow - 각도오른쪽으로 30도 천천히 보폭
+CrawB60Left - 각도 왼쪽으로 60도 보폭
+CrawB60LeftSlow - 각도 왼쪽으로 60도 천천히 보폭
+CrawB60Right - 각도 오늘쪽으로 60도 보폭
+CrawB60RightSlow - 각도 오른쪽으로 60도 천천히 보폭
+CrawlBForward - 앞으로 보폭
+CrawlBForwardSlow- 앞으로 보폭 천천히
+CrawlBlocked- 막힘
+CrawlDeathBasic - 죽음
+CrawIdleBasic- 보폭 Idle
+CrawIdleBasic1 - 보폭 Idle1
+CrawStandIdleBasic - 일어선 상태의Idle
+CrawlToAttached02Left - AtteachedLeft
+CrawlToAttachedBot - CrawlToAttachedBot 아래
+CrawlToAttachedMid- CrawlToAttachedMid 중간에 붙음
+
+

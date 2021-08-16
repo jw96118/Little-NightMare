@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+  Client.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\mainapp.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Title.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\title.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'Export_Function.h': No such file or directory
+  Terrain.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\terrain.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  StaticCamera.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\staticcamera.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Stage.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\stage.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  SkyBox.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\skybox.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  TempObject.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\tempobject.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Player.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\player.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Monster.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\monster.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  MeshObject.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\meshobject.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  MainApp.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\mainapp.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Logo.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\logo.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  LoadingScene.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\loadingscene.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Loadingbar.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\loadingbar.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  Loading.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\loading.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  ITem.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\item.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  HUD.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\hud.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  FirstPersonCamera.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\firstpersoncamera.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  DynamicCamera.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\dynamiccamera.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  ColObject.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\colobject.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CollisionMgr.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\collisionmgr.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  BackGround.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\client\code\background.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'Defines.h': No such file or directory
+  코드를 생성하고 있습니다...

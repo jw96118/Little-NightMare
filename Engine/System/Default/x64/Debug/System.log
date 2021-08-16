@@ -1,0 +1,32 @@
+﻿  System.vcxproj -> F:\3D개인포폴ver0.0.12 (4)\Engine\System\Default\../Bin\System.dll
+  System.vcxproj -> ../Bin\System.pdb (Full PDB)
+  .\Engine\System\Code\DebugMesh.h
+  .\Engine\System\Code\Font.h
+  .\Engine\System\Code\FontMgr.h
+  .\Engine\System\Code\Frame.h
+  .\Engine\System\Code\FrameMgr.h
+  .\Engine\System\Code\GraphicDev.h
+  .\Engine\System\Code\InputDev.h
+  .\Engine\System\Code\KeyMgr.h
+  .\Engine\System\Code\SoundMgr.h
+  .\Engine\System\Code\Timer.h
+  .\Engine\System\Code\TimerMgr.h
+         11개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Engine_Defines.h
+  .\Engine\Header\Engine_Enum.h
+  .\Engine\Header\Engine_Function.h
+  .\Engine\Header\Engine_Macro.h
+  .\Engine\Header\Engine_Struct.h
+  .\Engine\Header\Engine_Typedef.h
+  .\Engine\Header\Export_Function.h
+  .\Engine\Header\Export_Resources.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_Utility.h
+         10개 파일이 복사되었습니다.
+  .\Engine\Header\Export_Resources.inl
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.inl
+          3개 파일이 복사되었습니다.

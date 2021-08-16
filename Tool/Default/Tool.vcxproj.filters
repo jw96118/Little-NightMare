@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="기본생성">
+      <UniqueIdentifier>{b06e45b7-02f0-4813-b02a-ca0bc8242a0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="기본생성\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="기본생성\소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="00.">
+      <UniqueIdentifier>{e683132c-0268-41a6-8d6a-094fb701c195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object">
+      <UniqueIdentifier>{f1ad0651-9158-4a87-8ace-7e4de0e845c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\00.Scene">
+      <UniqueIdentifier>{cb4fb981-5020-4209-9aa6-b607e6c44a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject">
+      <UniqueIdentifier>{d38ed2bd-2110-487f-bace-da95f9616b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="기본생성\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{279a0f71-0612-4707-af0d-b482874239e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog">
+      <UniqueIdentifier>{adc7a2cc-adf5-43df-b0de-b5656d11a005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog\00.Com">
+      <UniqueIdentifier>{6a1a5c57-2499-44fe-832c-596100396d64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog\01.Texture">
+      <UniqueIdentifier>{2c848282-78ee-4dd8-ac05-64b899bb9a2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialog\03.Object">
+      <UniqueIdentifier>{8e034d33-1b9a-41d0-af87-5ac9bc9d3aca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject\00.TempObject">
+      <UniqueIdentifier>{93d977e0-6a46-4cf2-aa97-742ec6a6c8f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject\02.ColObject">
+      <UniqueIdentifier>{90797569-de26-4ec7-b0e6-69cff01ef611}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject\01.MeshObject">
+      <UniqueIdentifier>{c06cea2f-c867-4c6a-83e6-9e8863c0cd6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject\03.WideTerrain">
+      <UniqueIdentifier>{d68c05b1-1060-4f7b-96de-ff228f8fbfab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\01.GameObject\04.NaviMesh">
+      <UniqueIdentifier>{b6e20765-4ed9-4ab9-8505-312a6c074c04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Object\99.ToolCamera">
+      <UniqueIdentifier>{17fa20e9-2d10-4622-aa76-7c2f7ca4f855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tool.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolDoc.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolView.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FileView.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassView.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewTree.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputWnd.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertiesWnd.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>기본생성\헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\TestStage.h">
+      <Filter>01.Object\00.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Header\Function.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Header\Macro.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Header\Typedef.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Header\Defines.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Header\Enum.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\DynamicCamera.h">
+      <Filter>01.Object\99.ToolCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponuntDialog.h">
+      <Filter>Dialog\00.Com</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureTool.h">
+      <Filter>Dialog\01.Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectDialog.h">
+      <Filter>Dialog\03.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\TempObject.h">
+      <Filter>01.Object\01.GameObject\00.TempObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\ColObject.h">
+      <Filter>01.Object\01.GameObject\02.ColObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\MeshObject.h">
+      <Filter>01.Object\01.GameObject\01.MeshObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\Terrain.h">
+      <Filter>01.Object\01.GameObject\03.WideTerrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Code\NaviObject.h">
+      <Filter>01.Object\01.GameObject\04.NaviMesh</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolDoc.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolView.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileView.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassView.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewTree.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputWnd.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertiesWnd.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>기본생성\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\TestStage.cpp">
+      <Filter>01.Object\00.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\DynamicCamera.cpp">
+      <Filter>01.Object\99.ToolCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponuntDialog.cpp">
+      <Filter>Dialog\00.Com</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureTool.cpp">
+      <Filter>Dialog\01.Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectDialog.cpp">
+      <Filter>Dialog\03.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\TempObject.cpp">
+      <Filter>01.Object\01.GameObject\00.TempObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\ColObject.cpp">
+      <Filter>01.Object\01.GameObject\02.ColObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\MeshObject.cpp">
+      <Filter>01.Object\01.GameObject\01.MeshObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\Terrain.cpp">
+      <Filter>01.Object\01.GameObject\03.WideTerrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\NaviObject.cpp">
+      <Filter>01.Object\01.GameObject\04.NaviMesh</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool.rc">
+      <Filter>기본생성\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\file_view.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\file_view_hc.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\class_view.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\class_view_hc.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fileview.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fileview_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\classview.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\classview_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\explorer.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\explorer_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sort.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sort_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\menuimages.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\menuimages_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\output_wnd.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\output_wnd_hc.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\properties_wnd.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\properties_wnd_hc.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\properties.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\properties_hc.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\userimages.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ToolDoc.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Tool.ico">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>기본생성\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Tool.rc2">
+      <Filter>기본생성\리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>

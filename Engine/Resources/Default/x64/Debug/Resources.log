@@ -1,0 +1,43 @@
+﻿     ../Bin\Resources.lib 라이브러리 및 ../Bin\Resources.exp 개체를 생성하고 있습니다.
+  Resources.vcxproj -> F:\3D개인포폴ver0.0.12 (4)\Engine\Resources\Default\../Bin\Resources.dll
+  Resources.vcxproj -> ../Bin\Resources.pdb (Full PDB)
+  .\Engine\Resources\Code\AniCtrl.h
+  .\Engine\Resources\Code\Cell.h
+  .\Engine\Resources\Code\CubeTex.h
+  .\Engine\Resources\Code\DynamicMesh.h
+  .\Engine\Resources\Code\HierarchyLoader.h
+  .\Engine\Resources\Code\LightTex.h
+  .\Engine\Resources\Code\Line.h
+  .\Engine\Resources\Code\Mesh.h
+  .\Engine\Resources\Code\NaviMesh.h
+  .\Engine\Resources\Code\RcCol.h
+  .\Engine\Resources\Code\RcTex.h
+  .\Engine\Resources\Code\Resources.h
+  .\Engine\Resources\Code\ResourcesMgr.h
+  .\Engine\Resources\Code\ScrollTex.h
+  .\Engine\Resources\Code\StaticMesh.h
+  .\Engine\Resources\Code\TerrainCol.h
+  .\Engine\Resources\Code\TerrainTex.h
+  .\Engine\Resources\Code\Texture.h
+  .\Engine\Resources\Code\ToolTex.h
+  .\Engine\Resources\Code\TriCol.h
+  .\Engine\Resources\Code\VIBuffer.h
+         21개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Engine_Defines.h
+  .\Engine\Header\Engine_Enum.h
+  .\Engine\Header\Engine_Function.h
+  .\Engine\Header\Engine_Macro.h
+  .\Engine\Header\Engine_Struct.h
+  .\Engine\Header\Engine_Typedef.h
+  .\Engine\Header\Export_Function.h
+  .\Engine\Header\Export_Resources.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_Utility.h
+         10개 파일이 복사되었습니다.
+  .\Engine\Header\Export_Resources.inl
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.inl
+          3개 파일이 복사되었습니다.

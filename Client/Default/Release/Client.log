@@ -1,0 +1,14 @@
+﻿  MainApp.cpp
+c:\users\jiwoo\downloads\projectwarlock(ver4.4.2.2) (2)\client\code\Title.h(20): warning C4091: 'static ': 변수를 선언하지 않으면 'CTitle::SCROLLDIR' 왼쪽은 무시됩니다.
+c:\users\jiwoo\downloads\projectwarlock(ver4.4.2.2) (2)\client\code\Player.h(23): warning C4091: 'static ': 변수를 선언하지 않으면 'CPlayer::Item' 왼쪽은 무시됩니다.
+c:\users\jiwoo\downloads\projectwarlock(ver4.4.2.2) (2)\client\code\HUD.h(24): warning C4091: 'static ': 변수를 선언하지 않으면 'CHUD::Item' 왼쪽은 무시됩니다.
+c:\users\jiwoo\downloads\projectwarlock(ver4.4.2.2) (2)\client\code\Gauge.h(21): warning C4091: 'static ': 변수를 선언하지 않으면 'CGauge::Item' 왼쪽은 무시됩니다.
+..\Code\MainApp.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     ../Bin\Client.lib 라이브러리 및 ../Bin\Client.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 1885 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> C:\Users\jiwoo\Downloads\ProjectWarlock(ver4.4.2.2) (2)\Client\Default\../Bin\Client.exe
+  Client.vcxproj -> ../Bin\Client.pdb (Full PDB)

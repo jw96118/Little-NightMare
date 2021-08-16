@@ -1,0 +1,58 @@
+﻿  Transform.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Shader.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Scene.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  RenderTargetMgr.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  RenderTarget.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Renderer.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  PrototypeMgr.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Pipeline.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Management.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  LightMgr.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Light.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Layer.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\utility\code\layer.cpp(187): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GameObject.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\utility\code\gameobject.cpp(356): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Convert.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Component.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Collider.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Camera.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  Calculator.cpp
+c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): warning C4005: 'ENGINE_EXPORTS': 매크로 재정의
+  c:\users\jw961\downloads\3d개인포폴ver0.0.4\engine\header\engine_macro.h(15): note: 명령줄 인수: 'ENGINE_EXPORTS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'System.lib' 파일을 열 수 없습니다.

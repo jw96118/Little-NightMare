@@ -1,0 +1,52 @@
+﻿     ../Bin\Utility.lib 라이브러리 및 ../Bin\Utility.exp 개체를 생성하고 있습니다.
+  Utility.vcxproj -> F:\3D개인포폴ver0.0.12 (4)\Engine\Utility\Default\../Bin\Utility.dll
+  Utility.vcxproj -> ../Bin\Utility.pdb (Full PDB)
+  .\Engine\Utility\Code\Calculator.h
+  .\Engine\Utility\Code\Camera.h
+  .\Engine\Utility\Code\Collider.h
+  .\Engine\Utility\Code\Component.h
+  .\Engine\Utility\Code\Convert.h
+  .\Engine\Utility\Code\Frustum.h
+  .\Engine\Utility\Code\GameObject.h
+  .\Engine\Utility\Code\Layer.h
+  .\Engine\Utility\Code\Light.h
+  .\Engine\Utility\Code\LightMgr.h
+  .\Engine\Utility\Code\Management.h
+  .\Engine\Utility\Code\Optimization.h
+  .\Engine\Utility\Code\Pipeline.h
+  .\Engine\Utility\Code\PrototypeMgr.h
+  .\Engine\Utility\Code\QuadTree.h
+  .\Engine\Utility\Code\Renderer.h
+  .\Engine\Utility\Code\RenderTarget.h
+  .\Engine\Utility\Code\RenderTargetMgr.h
+  .\Engine\Utility\Code\Scene.h
+  .\Engine\Utility\Code\Shader.h
+  .\Engine\Utility\Code\Transform.h
+         21개 파일이 복사되었습니다.
+  .\Engine\Utility\Code\Shader_Base.hpp
+  .\Engine\Utility\Code\Shader_Blend.hpp
+  .\Engine\Utility\Code\Shader_Effect.hpp
+  .\Engine\Utility\Code\Shader_Light.hpp
+  .\Engine\Utility\Code\Shader_Mesh.hpp
+  .\Engine\Utility\Code\Shader_Particle.hpp
+  .\Engine\Utility\Code\Shader_Sample.hpp
+  .\Engine\Utility\Code\Shader_Terrain.hpp
+          8개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Engine_Defines.h
+  .\Engine\Header\Engine_Enum.h
+  .\Engine\Header\Engine_Function.h
+  .\Engine\Header\Engine_Macro.h
+  .\Engine\Header\Engine_Struct.h
+  .\Engine\Header\Engine_Typedef.h
+  .\Engine\Header\Export_Function.h
+  .\Engine\Header\Export_Resources.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_Utility.h
+         10개 파일이 복사되었습니다.
+  .\Engine\Header\Export_Resources.inl
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.inl
+          3개 파일이 복사되었습니다.

@@ -1,0 +1,49 @@
+﻿  DebugMesh.cpp
+  Font.cpp
+  FontMgr.cpp
+  Frame.cpp
+  FrameMgr.cpp
+  GraphicDev.cpp
+  InputDev.cpp
+..\Code\InputDev.cpp(36): warning C4244: 'return': 'LONG'에서 'Engine::_byte'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  SoundMgr.cpp
+..\Code\SoundMgr.cpp(102): warning C4002: 'FAILED' 매크로의 실제 매개 변수가 너무 많습니다.
+  Timer.cpp
+  TimerMgr.cpp
+     ../Bin\System.lib 라이브러리 및 ../Bin\System.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  All 853 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  System.vcxproj -> C:\Users\jiwoo\Downloads\ProjectWarlock(ver4.4.2.2) (2)\Engine\System\Default\../Bin\System.dll
+  System.vcxproj -> ../Bin\System.pdb (Full PDB)
+  .\Engine\System\Code\DebugMesh.h
+  .\Engine\System\Code\Font.h
+  .\Engine\System\Code\FontMgr.h
+  .\Engine\System\Code\Frame.h
+  .\Engine\System\Code\FrameMgr.h
+  .\Engine\System\Code\GraphicDev.h
+  .\Engine\System\Code\InputDev.h
+  .\Engine\System\Code\KeyMgr.h
+  .\Engine\System\Code\SoundMgr.h
+  .\Engine\System\Code\Timer.h
+  .\Engine\System\Code\TimerMgr.h
+         11개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+          1개 파일이 복사되었습니다.
+  .\Engine\Header\Engine_Defines.h
+  .\Engine\Header\Engine_Enum.h
+  .\Engine\Header\Engine_Function.h
+  .\Engine\Header\Engine_Macro.h
+  .\Engine\Header\Engine_Struct.h
+  .\Engine\Header\Engine_Typedef.h
+  .\Engine\Header\Export_Function.h
+  .\Engine\Header\Export_Resources.h
+  .\Engine\Header\Export_System.h
+  .\Engine\Header\Export_Utility.h
+         10개 파일이 복사되었습니다.
+  .\Engine\Header\Export_Resources.inl
+  .\Engine\Header\Export_System.inl
+  .\Engine\Header\Export_Utility.inl
+          3개 파일이 복사되었습니다.
